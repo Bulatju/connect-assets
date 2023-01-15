@@ -1,6 +1,6 @@
 {
   "name": "connect-assets",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "author": "Andrew Dunkman <andrew@dunkman.org>",
   "description": "A Rails-like asset pipeline for Connect",
   "license": "MIT",
@@ -36,17 +36,17 @@
   },
   "dependencies": {
     "argparse": "1.0.7",
-    "csswring": "5.0.0",
+    "csswring": "^7.0.0",
     "mime": "1.4.1",
-    "mincer": "2.0.1",
-    "postcss": "5.0.21",
+    "mincer": "github:Bulatju/mincer",
+    "postcss": "^8.4.21",
     "uglify-js": "2.6.2"
   },
   "devDependencies": {
-    "connect": "3.4.1",
-    "ejs": "2.4.2",
+    "connect": "^3.7.0",
+    "ejs": "^3.1.8",
     "expect.js": "0.3.1",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   },
   "config": {
     "travis-cov": {

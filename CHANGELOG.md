@@ -1,4 +1,14 @@
 # Changes By Release
+## 6.0.2
+- mincer upgrade to 2.0.1. (Bulats' version)
+- csswring update to 7.0.0.
+- postcss update to 8.4.21.
+- dev:
+- connect update to 3.7.0.
+- ejs update to 3.1.8.
+- mocha update to 10.2.0.
+
+
 ## 6.0.1
 - mincer upgrade to 2.0.1. (fixes connect-assets security warnings)
 
